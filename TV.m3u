@@ -1,6 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="" tvg-id="RTP3.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/RTP3.svg/revision/latest?cb=20190414142728",RTP 3
+#EXTINF:-1 group-title="" tvg-id="RTP3.pt" tvg-logo="",RTP 3
 #EXTVLCOPT:http-user-agent=IE
 http://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
 
